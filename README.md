@@ -1,7 +1,10 @@
+<div align="center">
+  
 ## Hi there, I'm [Jamaludin] 👋
 
 I am an **Electronic Product Developer** specializing in **Embedded Systems, Medical Imaging Technology**. I bridge the gap between hardware and software, developing robust, high-performance, and optimized solutions from scratch to production-ready units.
 
+<div>
 ---
 
 ## 🚀 About Me
@@ -48,7 +51,7 @@ When I'm not configuring registers or routing high-speed traces, you can find me
 
 ## 📫 Connect with Me
 
-*   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/jmldeen)
+*   **LinkedIn:** [jmldeen](https://linkedin.com/in/jmldeen)
 *   **Email:** [jmldn.en@gmail.com]
 *   **Website:** [sanala.my.id](https://sanala.my.id)
 
