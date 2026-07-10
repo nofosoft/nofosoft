@@ -4,7 +4,10 @@
 
 I am an **Electronic Product Developer** specializing in **Embedded Systems, Medical Imaging Technology**. </br>
 I bridge the gap between hardware and software, developing robust, high-performance, </br>
-and optimized solutions from scratch to production-ready units.
+and optimized solutions from scratch to production-ready units.  </br>
+
+💡 Founder/Creator of **Sanala** (Embedded Systems Training Platform) </br>
+**Nalapena** (Creative Publishing).
 
 </div>
 
@@ -15,7 +18,6 @@ and optimized solutions from scratch to production-ready units.
 - 🛠️ Currently developing advanced medical imaging systems (Endoscopy Cameras & Video Processors).
 - 🧠 Deeply interested in memory optimization, RTOS architectures, and custom database algorithms.
 - 📐 Passionate about high-speed digital design, signal integrity, and hardware-software co-design.
-- 💡 Founder/Creator of **Sanala** (Embedded Systems Training Platform) and **Nalapena** (Creative Publishing).
 
 ---
 
