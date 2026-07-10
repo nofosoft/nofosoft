@@ -2,8 +2,8 @@
   
 # 👋 Hi there, I'm Jamaludin
 
-I am an **Electronic Product Developer** specializing in **Embedded Systems, Medical Imaging Technology**. 
-I bridge the gap between hardware and software, developing robust, high-performance, 
+I am an **Electronic Product Developer** specializing in **Embedded Systems, Medical Imaging Technology**. </br>
+I bridge the gap between hardware and software, developing robust, high-performance, </br>
 and optimized solutions from scratch to production-ready units.
 
 </div>
