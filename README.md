@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi there, I'm [Jamaludin] 👋
+# Hi there, I'm Jamaludin 👋
 
 I am an **Electronic Product Developer** specializing in **Embedded Systems, Medical Imaging Technology**. I bridge the gap between hardware and software, developing robust, high-performance, and optimized solutions from scratch to production-ready units.
 
