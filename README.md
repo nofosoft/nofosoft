@@ -20,7 +20,7 @@ and optimized solutions from scratch to production-ready units.  </br>
 - 📐 Passionate about high-speed digital design, signal integrity, and hardware-software co-design.
 
 *   **LinkedIn:** [jmldeen](https://linkedin.com/in/jmldeen)
-*   **Email:** [jmldn.en@gmail.com]
+*   **Email:** jmldn.en@gmail.com
 *   **Website:** [sanala.my.id](https://sanala.my.id)
 
 ---
